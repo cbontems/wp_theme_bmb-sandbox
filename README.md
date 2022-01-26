@@ -18,7 +18,7 @@ BMB Sandbox is a sandbox blocks theme for WordPress to play with full site editi
 
 ## Copyright
 
-BMB Sandbox WordPress Theme, (C) 2022 boostemaboite.dev
+BMB Sandbox WordPress Theme, (C) 2022 boostemaboite.dev.\
 BMB Sandbox is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
@@ -33,10 +33,10 @@ GNU General Public License for more details.
 
 ### This theme is built on the emptytheme boilerplate :
 
-Emptytheme WordPress Theme, (C) 2021 WordPress.org
-Emptytheme is distributed under the terms of the GNU GPL.
-License: [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
-Source: [GitHub Repo](https://github.com/wordpress/theme-experiments/)
+- Emptytheme WordPress Theme, (C) 2021 WordPress.org
+- Emptytheme is distributed under the terms of the GNU GPL.
+- License: [GNU General Public License v2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
+- Source: [GitHub Repo](https://github.com/wordpress/theme-experiments/)
 
 ### This theme bundles the following third-party resources:
 
